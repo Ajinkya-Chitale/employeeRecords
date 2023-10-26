@@ -1,0 +1,32 @@
+{
+  "employee": [
+    {
+      "id": 2,
+      "empId": "10346534",
+      "email": "jame.jones@gmail.com",
+      "name": "Jame Jone",
+      "designation": "Senior Specialist - Software Engineering"
+    },
+    {
+      "empId": "12345672",
+      "name": "Ronny Singh",
+      "designation": "Python Developer",
+      "email": "ronny.singh@gmail.com",
+      "id": 3
+    },
+    {
+      "empId": "189394",
+      "name": "Ajinkya Chitale",
+      "designation": "UI Developer",
+      "email": "test@gmail.com",
+      "id": 4
+    },
+    {
+      "empId": "35",
+      "name": "Ronny Singh",
+      "designation": "test",
+      "email": "test123@gmail.com",
+      "id": 6
+    }
+  ]
+}
