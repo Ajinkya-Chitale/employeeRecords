@@ -9,23 +9,23 @@
     },
     {
       "empId": "12345672",
-      "name": "Ronny Singh",
+      "name": "Jonny Singh",
       "designation": "Python Developer",
-      "email": "ronny.singh@gmail.com",
+      "email": "jonny.singh@gmail.com",
       "id": 3
     },
     {
       "empId": "189394",
       "name": "Ajinkya Chitale",
       "designation": "UI Developer",
-      "email": "test@gmail.com",
+      "email": "ajinkya@gmail.com",
       "id": 4
     },
     {
-      "empId": "35",
+      "empId": "35890",
       "name": "Ronny Singh",
-      "designation": "test",
-      "email": "test123@gmail.com",
+      "designation": "Dev Ops",
+      "email": "ronny.singh@gmail.com",
       "id": 6
     }
   ]
